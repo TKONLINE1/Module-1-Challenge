@@ -65,10 +65,12 @@ In comparison to other competitors, Black Copper has a competitive edge due to t
 
 # If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 The best advice I could give them is to think about having businesses in another country besides Nigeria. This would give them diffrernt sources of revenue as well as increasing their network.
+
 # What technologies would this additional product or service utilise?
-The use 
+Python is a fantastic piece of technology that would drastically reduced process bloat. Reducing the process bloat  means that without losing service effectiveness but rather increasing it, the time saved allows for more effective resource management and overhead control. Additionally, you'll be relieving the pressure on your hard-working team members by letting AI, machine learning, and automation handle any tasks that can feasibly be handled by software rather than by physical labour. Because much of the busywork is now handled by technology, it is easier to redirect employees' attention to more critical projects, process improvements, strategy development, and other tasks.
 
 # Why are these technologies appropriate for your solution?
+This technology is appropriate as it drastically speeds up the the time it takes. It allows for mych efficient way of dealing with large amounts of data. This will allow for manpower that would be allocated to sorting large amount of data easily. 
 
 ## Works Cited
 https://www.crunchbase.com/organization/blackcopper/org_similarity_overview
