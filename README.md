@@ -1,5 +1,5 @@
 # What is the name of the company?
-The name of the company is Blackcopper Services Limited.
+The name of the company is Blackcopper Services Limited. At Blackcopper, their goal is to do more than just offer routine financial services; they want to create a vibrant user community, with the correct network and financial support. They hope to provide individuals and small business owners with the tools they need to prosper in the economy.
 
 # When was the company incorporated?
 The exact date isn’t public knowledge, but it was founded in the year 2020.
@@ -80,4 +80,5 @@ https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
 https://www.crunchbase.com/organization/biorc
 https://www.crunchbase.com/organization/tempay
 https://www.decisivedge.com/blog/top-5-trends-that-are-transforming-lending/
+https://fintechmagazine.com/financial-services-finserv/7-useful-ways-technology-improves-lending-process
 
