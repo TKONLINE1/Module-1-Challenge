@@ -1,7 +1,7 @@
 # Module 1 Challenge Black Copper
 
 ## What is the name of the company?
-The name of the company is Blackcopper Services Limited. At Blackcopper, their goal is to do more than just offer routine financial services; they want to create a vibrant user community, with the correct network and financial support. They hope to provide individuals and small business owners with the tools they need to prosper in the economy.
+The name of the company is Blackcopper Services Limited. According to their website, their goal is to do more than just offer routine financial services; they want to create a vibrant user community, with the correct network and financial support. They hope to provide individuals and small business owners with the tools they need to prosper in the economy.
 
 ## When was the company incorporated?
 The exact date isn’t public knowledge, but it was founded in the year 2020.
